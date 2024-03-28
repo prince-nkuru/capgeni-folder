@@ -752,6 +752,9 @@ footer {
   
   margin-left: 10px;
 }
+/* styles for phone having 375px wide */
+
+
 @media (max-width:600px){
   
   .search-header {
@@ -834,9 +837,7 @@ footer {
     padding-left: 10px;
     padding-top: 34px;
   }
-  .integrated-annual {
-    width: 100%;
-  }
+  
   .emmanuel {
     width: 100%;
   }
